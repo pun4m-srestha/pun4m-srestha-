@@ -110,6 +110,17 @@ Currently exploring existing codebases, fixing issues, and learning from the com
 </p>
 
 
+## ✧ consistency over perfection ✧
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pun4m-srestha&theme=tokyonight&hide_border=true&background=0D1117&ring=C4B5FD&fire=67E8F9&currStreakLabel=C4B5FD" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <i>small steps, good code, better every day ♡</i>
+</p>
+
+
 <!-- FOOTER -->
 
 <p align="center">
