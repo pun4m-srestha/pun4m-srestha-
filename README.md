@@ -102,6 +102,14 @@ Currently exploring existing codebases, fixing issues, and learning from the com
   <a href="https://github.com/pun4m-srestha?tab=stars">Things I find interesting ↗</a>
 </p>
 
+## ✧ github activity ✧
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pun4m-srestha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=67e8f9&text_color=c9d1d9" height="160" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun4m-srestha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" height="160" alt="Most used languages" />
+</p>
+
+
 <!-- FOOTER -->
 
 <p align="center">
