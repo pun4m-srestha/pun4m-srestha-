@@ -126,7 +126,3 @@ Currently exploring existing codebases, fixing issues, and learning from the com
 <p align="center">
   <em>small steps, good code, better every day ♡</em>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b101a&height=80&section=footer" width="100%" />
-</p>
