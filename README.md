@@ -59,6 +59,15 @@
     <td width="50%">
       <h3 align="center">☾ BuddyGPT</h3>
       <p>A ChatGPT-style interface with dark/light mode, a sidebar, and formatted responses.</p>
+      <p align="center">
+  <a href="https://github.com/pun4m-srestha/BuddyGPT">
+    <img src="https://raw.githubusercontent.com/pun4m-srestha/BuddyGPT/main/buddygpt-dark.png" width="48%" alt="BuddyGPT dark mode" />
+  </a>
+  <a href="https://github.com/pun4m-srestha/BuddyGPT">
+    <img src="https://raw.githubusercontent.com/pun4m-srestha/BuddyGPT/main/buddygpt-light.png" width="48%" alt="BuddyGPT light mode" />
+  </a>
+</p>
+      
       <p><strong>Tech:</strong> JavaScript · Frontend</p>
       <p align="center">
         <a href="https://github.com/pun4m-srestha/BuddyGPT">View repository ↗</a>
