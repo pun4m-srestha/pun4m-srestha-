@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding-banner.png" width="100%" alt="Midnight anime coding banner" />
+  <img src="assets/coding-banner.jpeg" width="100%" alt="Midnight anime coding banner" />
 </p>
 
 <!-- INTRO -->
