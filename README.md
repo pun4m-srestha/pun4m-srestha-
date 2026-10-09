@@ -49,19 +49,24 @@
 <table>
   <tr>
     <td width="50%">
-      <h4 align="center">🏡 Homego</h4>
-      <p align="center">A rental listing app with authentication, listing management, and reviews.</p>
-      <p align="center"><strong>Node.js · Express · MongoDB</strong></p>
-      <p align="center"><a href="https://github.com/pun4m-srestha">View repositories ↗</a></p>
+      <h3 align="center">🏡 Homigo</h3>
+      <p>A rental listing application with authentication, listing management, and reviews.</p>
+      <p><strong>Tech:</strong> Node.js · Express · MongoDB</p>
+      <p align="center">
+        <a href="https://github.com/pun4m-srestha/Homigo">View repository ↗</a>
+      </p>
     </td>
     <td width="50%">
-      <h4 align="center">☾ BuddyGPT</h4>
-      <p align="center">A ChatGPT-style interface with theme switching, a sidebar, and formatted responses.</p>
-      <p align="center"><strong>Frontend · JavaScript</strong></p>
-      <p align="center"><a href="https://github.com/pun4m-srestha">View repositories ↗</a></p>
+      <h3 align="center">☾ BuddyGPT</h3>
+      <p>A ChatGPT-style interface with dark/light mode, a sidebar, and formatted responses.</p>
+      <p><strong>Tech:</strong> JavaScript · Frontend</p>
+      <p align="center">
+        <a href="https://github.com/pun4m-srestha/BuddyGPT">View repository ↗</a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 <!-- OPEN SOURCE -->
 
