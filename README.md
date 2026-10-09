@@ -23,7 +23,7 @@
 
 <h3 align="center">✧ a little about me ✧</h3>
 
-* 🌱 Currently learning **React**
+* 🌱 Currently learning **Typescript, NextJS**
 * 💻 Building web projects and improving my JavaScript
 * 🐛 Exploring open-source contributions
 * ✨ Interested in frontend development and AI-powered apps
@@ -44,37 +44,47 @@
 
 <!-- PROJECTS -->
 
-<h3 align="center">✧ things i've built ✧</h3>
+## ✧ things i've built ✧
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏡 Homigo</h3>
-      <p>A rental listing application with authentication, listing management, and reviews.</p>
-      <p><strong>Tech:</strong> Node.js · Express · MongoDB</p>
-      <p align="center">
-        <a href="https://github.com/pun4m-srestha/Homigo">View repository ↗</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">☾ BuddyGPT</h3>
-      <p>A ChatGPT-style interface with dark/light mode, a sidebar, and formatted responses.</p>
-      <p align="center">
-  <a href="https://github.com/pun4m-srestha/BuddyGPT">
-    <img src="https://raw.githubusercontent.com/pun4m-srestha/BuddyGPT/main/buddygpt-dark.png" width="48%" alt="BuddyGPT dark mode" />
-  </a>
-  <a href="https://github.com/pun4m-srestha/BuddyGPT">
-    <img src="https://raw.githubusercontent.com/pun4m-srestha/BuddyGPT/main/buddygpt-light.png" width="48%" alt="BuddyGPT light mode" />
-  </a>
+<tr>
+<td width="50%" valign="top">
+
+### ☾ BuddyGPT
+
+A ChatGPT-style interface with dark/light mode, a sidebar, and formatted responses.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pun4m-srestha/BuddyGPT/main/buddygpt-dark.png" width="100%" alt="BuddyGPT dark mode" />
 </p>
-      
-      <p><strong>Tech:</strong> JavaScript · Frontend</p>
-      <p align="center">
-        <a href="https://github.com/pun4m-srestha/BuddyGPT">View repository ↗</a>
-      </p>
-    </td>
-  </tr>
+
+<p align="center">
+  <a href="https://github.com/pun4m-srestha/BuddyGPT">View repository ↗</a>
+</p>
+
+**Tech:** JavaScript · Frontend
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 Homigo
+
+A rental listing application with authentication, listing management, and reviews.
+
+<p align="center">
+  <img src="https://placehold.co/500x280/151922/cbd5e1?text=Homigo+Screenshot+Coming+Soon" width="100%" alt="Homigo screenshot placeholder" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pun4m-srestha/Homigo">View repository ↗</a>
+</p>
+
+**Tech:** Node.js · Express · MongoDB
+
+</td>
+</tr>
 </table>
+
 
 
 <!-- OPEN SOURCE -->
